@@ -31,7 +31,7 @@ iTunes 12.0.1.20141019
 javaruntime 7.0.5
 mRemoteNG 1.72
 nmap 6.47
-nodejs 0.10.33
+nodejs 5.9.1
 nodejs.commandline 0.10.33
 nodejs.install 5.9.1
 notepadplusplus 6.6.9
@@ -44,10 +44,13 @@ procexp 15.13
 putty 0.63
 putty.portable 0.63
 python 3.4.2
+python2 2.7.11
+qbittorrent 3.3.3
 ruby 2.1.6
 ruby2.devkit 4.7.2.2013022402
 skype 6.22.81.105
 speccy 1.29.714
+StrawberryPerl 5.20.1.1
 SublimeText2 2.0.2.2221
 tor-browser 5.0.5
 tortoisesvn 1.8.8
@@ -62,4 +65,4 @@ windirstat 1.1.2.20140225
 WinPcap 4.1.3.20141005
 winscp 5.5.6
 wireshark 1.12.4
-62 packages installed.
+67 packages installed.
